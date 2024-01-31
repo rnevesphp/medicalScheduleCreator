@@ -1,0 +1,16 @@
+{
+  "name": "medicalschedulecreator",
+  "version": "1.0.0",
+  "description": "Using JS Calendar API to create a calendar to manage the medical schedule.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch --no-warnings index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vanilla-calendar-pro": "^2.9.3"
+  }
+}
